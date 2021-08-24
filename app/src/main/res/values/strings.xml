@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="alert">Alert</string>
+    <string name="message">Are you sure you want to change text?</string>
+    <string name="Message">Are you sure you want to delete?</string>
+    <string name="title">Quit LEarning ?</string>
+    <string name="msg">You are 400pts away from unlocking rewards.Quit Learning?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
